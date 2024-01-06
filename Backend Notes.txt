@@ -1,0 +1,8 @@
+                                            Rest Api
+                   ................................................................
+
+1.create package.json file - npm init -y
+2.install jsonserver - npm i json-server
+3.create index.js file
+4.create .gitignore file
+5.create db.json file                   
